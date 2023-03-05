@@ -8,4 +8,4 @@ require('./part7mind')
 // sayHi(names.john)
 // sayHi(names.peter)
 
-// console.log(data);
+// console.log(data);;
